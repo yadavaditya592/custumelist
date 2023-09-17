@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/blank"
+    android:title="Blank"
+    android:icon="@drawable/baseline_add_a_photo_24"/>
+</menu>
