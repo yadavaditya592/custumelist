@@ -15,6 +15,7 @@ class MainActivity2 : AppCompatActivity() {
         val nameGet=findViewById<TextView>(R.id.nameGet)
         val ageGet=findViewById<TextView>(R.id.ageGet)
 
+
         val img=intent.extras?.getString("img")
         val name=intent.extras?.getString("name")
         val age=intent.extras?.getString("age")
